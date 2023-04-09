@@ -150,7 +150,7 @@ include/include.am
 
 # QR
 qrtest.png
-qrtest.jp
+qrtest.jpg
 
 # Swift Package Manager
 .DS_Store
