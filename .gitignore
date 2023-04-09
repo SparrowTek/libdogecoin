@@ -150,4 +150,15 @@ include/include.am
 
 # QR
 qrtest.png
-qrtest.jpg
+qrtest.jp
+
+# Swift Package Manager
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
